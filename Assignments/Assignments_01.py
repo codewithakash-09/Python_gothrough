@@ -1,1 +1,4 @@
-
+diameter=input("Enter the Diameter of circle")
+radius = diameter%2
+area=3.14*radius*radius
+print(area)
